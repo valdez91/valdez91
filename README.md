@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @valdez91
-- 👀 I’m interested in Reactjs||HTML&Css||Javascript
-- 🌱 I’m currently learning Reactjs
+- 🌱 Frontend Reactjs || Backend(flask_alchemy,PostgreSQL
 - 💞️ I’m looking to collaborate on mobile apps||web developments
 - 📫 How to reach me vickemtoo97@gmail.com
 - 😄 Pronouns: ..
